@@ -1,11 +1,11 @@
 using NUnit.Framework;
-using Line = Line.Line;
+using Corestuff;
 
 namespace UnitTests
 {
   public class LineTests
   {
-    private global::Line.Line myLine = new global::Line.Line();
+    private Line myLine = new Line();
 
     [SetUp]
     public void Setup()

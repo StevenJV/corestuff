@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Line
+namespace Corestuff
 {
   public class Line
   {
